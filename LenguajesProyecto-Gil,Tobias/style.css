@@ -17,6 +17,7 @@ body {
   color: #fff;
   font-size: 14px;
   margin-top: 20px;
+  border-top: 5px solid #77aca2;
 }
 
 #footer p {
